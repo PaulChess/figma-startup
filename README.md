@@ -13,9 +13,6 @@ Some figma learning exercise. @paulchess
 
 ## My Works
 
-#### [lesson one 苹果商店页设计](https://www.figma.com/file/QSf5p93GQRJIY49wWm4DyK/%E8%8B%B9%E6%9E%9CAppStore)
+### [lesson one 苹果商店页设计](https://www.figma.com/file/QSf5p93GQRJIY49wWm4DyK/%E8%8B%B9%E6%9E%9CAppStore)
 
-<div>
-  <img src="./preview/lesson1.1.png" width="300" />
-  <img src="./preview/lesson1.2.png" width="300" style="position: relative; top: 4px;margin-left: 40px" />
-</div>
+<img src="./preview/lesson1.png" width="800" />
